@@ -382,7 +382,7 @@ header .intro-text {
 
 /* Services Section */
 #services {
-	padding: 100px 0 60px;
+	padding: 130px 0 60px;
 }
 
 #services .service-media img {
@@ -922,9 +922,9 @@ label {
 }
 
 .footer-bottom {
-	background: #131313 none repeat scroll 0 0;
+	background: #2f486f none repeat scroll 0 0;
 	color: #fff;
-	padding: 50px 0px;
+	padding: 30px 0px;
 	text-align: center;
 }
 
